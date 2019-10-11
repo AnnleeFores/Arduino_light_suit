@@ -103,7 +103,7 @@ void hi()
 {
     digitalWrite(5,1);
       digitalWrite(6,1);
-    delay(100);
+    delay(1000);
 //      digitalWrite(5,0);
 //        digitalWrite(6,0);
 //      delay(100);  
