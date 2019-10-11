@@ -77,7 +77,7 @@ void ha(){
   {
     digitalWrite(2,1);
     digitalWrite(3,1);
-    delay(100);
+    delay(1200);
 //    digitalWrite(2,0);
 //    digitalWrite(3,0);
 //    delay(100);   
