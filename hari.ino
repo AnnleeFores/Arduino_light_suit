@@ -157,7 +157,7 @@ void lf()
 void rf()
 {
    digitalWrite(10,1);
-   delay(100);
+   delay(1200);
 //    digitalWrite(10,0);
 //    delay(100);
 }
