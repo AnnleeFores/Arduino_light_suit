@@ -479,7 +479,7 @@ delay(2500);
   {alloff();} 
   delay(100);
   {allon();} 
-  delay(50);
+  delay(500);
    {alloff();} 
   delay(50);
   {allon();} 
