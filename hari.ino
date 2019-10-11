@@ -195,7 +195,7 @@ void f()
       digitalWrite(3,1);
           digitalWrite(5,1);
               digitalWrite(6,1);
-      delay(100);
+      delay(1000);
      digitalWrite(2,0);
       digitalWrite(3,0);
           digitalWrite(5,0);
