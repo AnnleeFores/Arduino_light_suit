@@ -523,7 +523,7 @@ delay(640); //slow mo
   {alloff();} 
   delay(300);
   {allon();} 
-  delay(200);
+  delay(2000);
   {alloff();} 
   delay(200);
   {allon();} 
