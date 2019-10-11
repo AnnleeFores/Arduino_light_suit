@@ -1,5 +1,6 @@
 
-/*allon - full light
+/*the delay time is give according to the song
+allon - full light
  alloff -full off
  h-head
  la-left arm
