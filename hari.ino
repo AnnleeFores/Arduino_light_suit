@@ -77,7 +77,7 @@ void ha(){
   {
     digitalWrite(2,1);
     digitalWrite(3,1);
-    delay(100);
+    delay(1200);
 //    digitalWrite(2,0);
 //    digitalWrite(3,0);
 //    delay(100);   
@@ -102,7 +102,7 @@ void hi()
 {
     digitalWrite(5,1);
       digitalWrite(6,1);
-    delay(100);
+    delay(1200);
 //      digitalWrite(5,0);
 //        digitalWrite(6,0);
 //      delay(100);  
@@ -157,7 +157,7 @@ void lf()
 void rf()
 {
    digitalWrite(10,1);
-   delay(100);
+   delay(1200);
 //    digitalWrite(10,0);
 //    delay(100);
 }
@@ -479,7 +479,7 @@ delay(2500);
   {alloff();} 
   delay(100);
   {allon();} 
-  delay(50);
+  delay(500);
    {alloff();} 
   delay(50);
   {allon();} 
