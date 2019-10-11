@@ -1,5 +1,6 @@
 
-/*allon - full light
+/*the delay time is give according to the song
+allon - full light
  alloff -full off
  h-head
  la-left arm
@@ -102,7 +103,7 @@ void hi()
 {
     digitalWrite(5,1);
       digitalWrite(6,1);
-    delay(100);
+    delay(1000);
 //      digitalWrite(5,0);
 //        digitalWrite(6,0);
 //      delay(100);  
