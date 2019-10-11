@@ -560,7 +560,7 @@ delay(2500);
   delay(50);
   
   {alloff();} 
-  delay(5500);//2nd
+  delay(55000);//2nd
 
   {allon();} 
   delay(10000); //3rd
