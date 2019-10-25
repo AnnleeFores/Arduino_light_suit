@@ -23,6 +23,8 @@ rlc - right hand&left leg
  ar - all right
  bl - both leg
 */
+
+Nice
   void allon(){
   
   digitalWrite(10,1);
