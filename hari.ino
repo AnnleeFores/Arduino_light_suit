@@ -8,6 +8,7 @@
  ra-right arm
  lh - left hip
  rh - right hip
+ 'ascvhgasvcghasv
  ha- both hand
  ll - left leg
  rl - right leg
@@ -32,7 +33,7 @@ rlc - right hand&left leg
   digitalWrite(6,1);
   digitalWrite(5,1);
   digitalWrite(4,1);
-  digitalWrite(3,1);
+  digitalWrite(3,0);
   digitalWrite(2,1);
 
 
@@ -488,7 +489,7 @@ delay(2500);
   delay(2050);
 
   {allon();} 
-  delay(10000); //3rd
+  delay(100000); //3rd
 
 
 }

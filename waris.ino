@@ -33,7 +33,7 @@ rlc - right hand&left leg
   digitalWrite(5,1);
   digitalWrite(4,1);
   digitalWrite(3,1);
-  digitalWrite(2,1);
+  digitalWrite(2,0);
 
 
   }
@@ -271,7 +271,7 @@ void bt(){
   delay(100);
   digitalWrite(4, HIGH);
   delay(100);
-  digitalWrite(4, LOW);
+  digitalWrite(5, LOW);
   delay(100);
   }
 
@@ -280,7 +280,7 @@ void tb(){
   digitalWrite(4, HIGH);
   delay(100);
   digitalWrite(4, LOW);
-  delay(100);
+  delay(1000);
     digitalWrite(3, HIGH);
    digitalWrite(2, HIGH);
   delay(100);
@@ -517,7 +517,7 @@ delay(640); //slow mo
   {allon();} 
   delay(400);
   {alloff();} 
-  delay(400);
+  delay(4000);
   {allon();} 
   delay(300);
   {alloff();} 
